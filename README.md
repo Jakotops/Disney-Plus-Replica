@@ -1,6 +1,6 @@
 # Disney+ Web App replica (Frontend)
 
-## Made with React, Node-Js, CSS, Redux, Styled-components, HTML and JavaScript
+## made with HTML, JavaScript, CSS,  React, Node-Js, CSS, Redux and Styled-components,
 
 - The web app includes a nav-bar, slider for the main shows using react slick and a movies bar with transitional elements made with css and styled componets
 - The is a landing page for new members
