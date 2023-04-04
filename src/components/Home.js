@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
 import ImgSlider from './ImgSlider'
 import Viewers from './Viewers'
@@ -7,9 +7,9 @@ import Movies from './Movies'
 function Home() {
   return (
     <Container>
-      <ImgSlider/>
-      <Viewers/>
-      <Movies/>
+      <ImgSlider />
+      <Viewers />
+      <Movies />
     </Container>
   )
 }
