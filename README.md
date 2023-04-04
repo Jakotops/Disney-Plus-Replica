@@ -1,4 +1,4 @@
-# Disney+ Web App (Frontend) made with React, Node-Js, CSS, Redux, Styled-components, HTML and JavaScript
+# Disney+ Web App (Frontend) replica made with React, Node-Js, CSS, Redux, Styled-components, HTML and JavaScript
 
 This project is on hold as the firebase database is unaccessable to me at the moment
 
